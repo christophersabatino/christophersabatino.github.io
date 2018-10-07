@@ -39,7 +39,7 @@ Terminal:
 $ git status
 xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
 ```
-
+##### SOLUTION:
 "Now, the issue here is that the command line tools are either missing or broken. The same happened after El Capitan, so this appears to be a general issue and one that, sadly, Apple don’t seem to fix.
 
 The solution is simply to re-install the required software again. Open up a Terminal window and type the following…"
